@@ -1,0 +1,13 @@
+.nombreTienda{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    border: solid red;
+}
+#botonInicio{
+    color: white;
+    background-color: orange;
+}
+.itemsNavBar{
+
+}
