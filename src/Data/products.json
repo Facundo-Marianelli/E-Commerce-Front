@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Botines ",
+        "price": 19.99,
+        "description": "Botines para futbol.",
+        "image": "https://res.cloudinary.com/dgvlsnajj/image/upload/v1677803141/Botines_imwp9g.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Zapatillas ",
+        "price": 29.99,
+        "description": "Zapatillas para caminar.",
+        "image": "https://res.cloudinary.com/dgvlsnajj/image/upload/v1677803141/Zapatillas_yudktn.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Medias",
+        "price": 9.99,
+        "description": "Medias para estar y jugar al tenis",
+        "image": "https://res.cloudinary.com/dgvlsnajj/image/upload/v1677803141/Medias_i0e3v5.jpg"
+      }
+    ]
+  }
+  
